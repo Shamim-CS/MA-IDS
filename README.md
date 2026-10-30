@@ -40,7 +40,7 @@ MA-IDS combines Large Language Models (LLMs) with Retrieval-Augmented Generation
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/shamim-38/MA-IDS.git
+git clone https://github.com/shamim-cs/MA-IDS.git
 cd MA-IDS
 ```
 
